@@ -1,2 +1,2 @@
 # DeepLearning_NeuralNetwork
-Projects
+Projects - Partner: Vivek Sharma
